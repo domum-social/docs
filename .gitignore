@@ -1,0 +1,28 @@
+# Hugo default output directory
+/public/*
+!/public/.gitkeep
+
+## OS Files
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# OSX
+.DS_Store
+
+# Emacs backups
+*~
+#*#
+.#*
+
+# vim swap
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-v][a-z]
+[._]sw[a-p]
+
+#hugo
+.hugo_build.lock
+
