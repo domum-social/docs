@@ -4,7 +4,7 @@ This repository contains the documentation for **Domum Social**, a privacy-focus
 
 ## About Domum Social
 
-Domum Social is built on [Mastodon](https://joinmastodon.org/) and is the only instance we know of that *requires* anonymous [Tor](https://www.torproject.org/) logins—so we literally can't know where you're posting from while still allowing viewing and interaction over the regular public internet.
+Domum Social is built on [Mastodon](https://joinmastodon.org/) and is the only instance we know of that *requires* anonymous [Tor](https://www.torproject.org/) logins — so we literally can't know where you're posting from while still allowing viewing and interaction over the regular public internet.
 
 In addition to active moderation, we're creating clear, easy-to-follow guides to help users preserve their anonymity and critically assess anonymous content.
 
@@ -12,7 +12,7 @@ In addition to active moderation, we're creating clear, easy-to-follow guides to
 
 ## Documentation Site
 
-This repository contains the source code for the Domum Social documentation website, built with [Hugo](https://gohugo.io/) and the [Congo theme](https://github.com/jpanther/congo).
+This repository contains the source code for the Domum Social documentation website, built with [Hugo](https://gohugo.io/) and the [Relearn theme](https://github.com/McShelby/hugo-theme-relearn).
 
 ### Building the Documentation
 
