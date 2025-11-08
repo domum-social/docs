@@ -7,6 +7,8 @@
   --MAIN-BG-color: rgba( 255, 255, 255, 1 ); /* background color of content */
   --MAIN-TEXT-color: rgba( 0, 0, 0, 1 ); /* text color of content and titles */
   --MAIN-TITLES-TEXT-color: rgba( 16, 16, 16, 1 ); /* text color of titles and transparent box titles */
+  --MAIN-font: 'Roboto', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif; /* font family matching Mastodon */
+  --MAIN-MONO-font: 'Roboto Mono', 'Courier New', Courier, monospace; /* monospace font family matching Mastodon */
   --CODE-theme: relearn-light; /* name of the chroma stylesheet file */
   --CODE-BLOCK-color: rgba( 39, 40, 34, 1 ); /* fallback text color of block code; should be adjusted to your selected chroma style */
   --CODE-BLOCK-BG-color: rgba( 250, 250, 250, 1 ); /* fallback background color of block code; should be adjusted to your selected chroma style */
@@ -35,4 +37,9 @@
   --BOX-BG-color: rgba( 255, 255, 255, .833 ); /* background color of colored boxes */
   --BOX-TEXT-color: rgba( 16, 16, 16, 1 ); /* text color of colored box content */
   --BOX-ORANGE-color: #FFD86B; /* background color of orange boxes */
+}
+
+/* Hide the "More" nav title in shortcuts menu */
+.R-shortcutmenu-shortcuts .nav-title {
+  display: none;
 }
