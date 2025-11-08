@@ -26,3 +26,5 @@ $RECYCLE.BIN/
 #hugo
 .hugo_build.lock
 
+# don't commit deploy scripts
+scripts/*
