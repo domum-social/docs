@@ -1,0 +1,4 @@
+# Production environment override
+# This file only contains the differences from the default configuration
+
+baseURL = "http://f3rz5puehnq7dfqqwajxu3izuovb6wqepof3prqesle76qyfivlfxgyd.onion/learn"
