@@ -8,3 +8,9 @@ title = 'Domum Social'
 
 [params]
   themeVariant = ['domum-dark', 'domum-light']
+
+[[menu.shortcuts]]
+name = "Social Site"
+url = "../"
+weight = -10
+pre = "<i class=\"fa-fw fab fa-mastodon\"></i>"
