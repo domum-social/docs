@@ -1,0 +1,16 @@
+{{- $domainRoot := replaceRE "^((?:https?://[^/]+)/).*" "$1" .Site.BaseURL -}}
+{{- $path := .Get "path" | default "" -}}
+{{- $url := $domainRoot -}}
+{{- if $path -}}
+  {{- $url = printf "%s%s" $domainRoot (strings.TrimPrefix "/" $path) -}}
+{{- end -}}
+{{- $text := .Get "text" -}}
+{{- $urlOnly := .Get "urlonly" | default false -}}
+{{- if $urlOnly -}}
+  {{- return $url -}}
+{{- else if $text -}}
+  <a href="{{ $url }}">{{ $text }}</a>
+{{- else -}}
+  {{- return $url -}}
+{{- end -}}
+
