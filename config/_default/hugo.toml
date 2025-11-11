@@ -14,3 +14,10 @@ name = "Social Site"
 url = "../"
 weight = -10
 pre = "<i class=\"fa-fw fab fa-mastodon\"></i>"
+
+# required due to "card" shortcode rendering bug
+# https://github.com/McShelby/hugo-theme-relearn/issues/1160
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
