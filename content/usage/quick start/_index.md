@@ -26,11 +26,11 @@ library grows we will expand our recommended use.
 
 ## Get TorBrowser
 
-Download and install the [TorBrowser](https://www.torproject.org/download/)
+Download and install the [TorBrowser](https://www.torproject.org/download/?target=_blank)
 
 ## Go to our .onion site
 
-Launch the [TorBrowser](https://www.torproject.org/download/) you just
+Launch the [TorBrowser](https://www.torproject.org/download/?target=_blank) you just
 installed.
 
 Navigate to https://domum.social and click on the [![tor button](join_login_tor.png?height=1.5vw&classes=inline&border=false "Requires Tor Browser")](http://f3rz5puehnq7dfqqwajxu3izuovb6wqepof3prqesle76qyfivlfxgyd.onion)
