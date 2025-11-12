@@ -1,0 +1,8 @@
+# robots.txt for Domum Social Documentation
+
+# Allow all crawlers for clearnet version
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://domum.social/learn/sitemap.xml

@@ -8,6 +8,19 @@ title = 'Domum Social'
 
 [params]
   themeVariant = ['domum-light', 'domum-dark']
+  # SEO Configuration
+  description = 'Documentation for Domum Social - an anonymity-focused microblogging platform that requires anonymous Tor logins, allowing free speech without fear of reprisal.'
+  keywords = ['domum social', 'mastodon', 'tor', 'onion', 'anonymous social media', 'privacy', 'documentation', 'fediverse']
+  author = 'Domum Social'
+  
+  # Open Graph defaults
+  [params.og]
+    image = '/favicon.ico'
+    type = 'website'
+  
+  # Twitter Card defaults
+  [params.twitter]
+    card = 'summary'
 
 [[menu.shortcuts]]
 name = "Social Site"

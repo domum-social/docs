@@ -1,6 +1,9 @@
 +++
 title = "Using the Site"
 weight = 1
+description = 'Learn how to use Domum Social - from quick start guide to advanced Tor client setup. Get started with anonymous browsing and account setup.'
+keywords = ['domum social', 'usage', 'how to', 'quick start', 'tor browser', 'anonymous browsing', 'account setup']
+author = 'Domum Social'
 +++
 
 {{% notice style="secondary" title="Opening soon" icon="comment" %}}

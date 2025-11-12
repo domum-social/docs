@@ -2,6 +2,9 @@
 date = '2025-11-11T10:28:09-05:00'
 draft = false
 title = 'Welcome'
+description = 'Welcome to Domum Social documentation - Learn about our privacy-focused anonymous social media platform built on Mastodon.'
+keywords = ['domum social', 'welcome', 'documentation', 'anonymous social media', 'mastodon', 'tor']
+author = 'Domum Social'
 +++
 
 

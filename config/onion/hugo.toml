@@ -2,3 +2,7 @@
 # This file only contains the differences from the default configuration
 
 baseURL = "http://f3rz5puehnq7dfqqwajxu3izuovb6wqepof3prqesle76qyfivlfxgyd.onion/learn"
+
+# SEO: Onion sites should not be indexed by search engines
+[params]
+  noindex = true

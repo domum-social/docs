@@ -2,6 +2,9 @@
 date = '2025-11-11T10:56:12-05:00'
 draft = false
 title = 'About'
+description = 'Learn about Domum Social - our vision, the people behind it, and how to support anonymous social media.'
+keywords = ['domum social', 'about', 'vision', 'funding', 'anonymous social media', 'team']
+author = 'Domum Social'
 +++
 
 
