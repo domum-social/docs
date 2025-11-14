@@ -15,28 +15,27 @@ browsing anonymously so you can be ready when it begins.  {{%
 
 ## Is this site for you?
 
-Our secured server don't collect any personally identifiable data but that's only
-half the story.  What you post, when you post, and how you post can
-all leak hints about who you are.
+Our secured server doesn't collect any personally identifiable data
+but that's only half the story.  What you post, when you post, and how
+you post can all leak hints about who you are.
 
 As we build our library we will have more guidance on advanced use but
 for now --- unless you are already a privacy expert --- we only recommend
-low risk use, where being identified would be embarrassing but not
-dangerous
+low-risk use, where being identified would be embarrassing but not
+dangerous.
 
 We want all voices to be heard but safety comes first. As our learning
 library grows we will expand our recommended use. Learn more about [our vision](/about/vision/) and why we built Domum Social.
 
-## Get TorBrowser
+## Get a Tor Browser
 
-Download and install the
-[TorBrowser](https://www.torproject.org/download/?target=_blank) 
-versions are available for Windows, MacOS, Linux, and Android. 
+Download and install the [Tor Browser](https://www.torproject.org/download/?target=_blank).
+Versions are available for Windows, MacOS, Linux, and Android. 
 
-For iOS get the  [Onion Browser](https://apps.apple.com/us/app/onion-browser/id519296448) app from the Apple App Store. 
+For iOS, get the [Onion Browser](https://apps.apple.com/us/app/onion-browser/id519296448) app from the Apple App Store. 
 
 
-Yup, it's that simple, click to install no fancy setup required.
+Yup, it's that simple: click to install, no fancy setup required.
 
 ## Go to our .onion site
 
