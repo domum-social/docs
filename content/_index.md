@@ -13,20 +13,20 @@ Check back soon for more content.
 {{% /notice %}}
 
 {{< cards >}}
-{{% card title="Quick Start" href="usage/quick-start" %}}
-<p>Get on the Tor network to browse anonymously and access signup and login featured.</p>
+{{% card title="Quick Start" %}}
+[Get setup](usage/quick-start) on the Tor network to browse anonymously and access signup and login featured.
 
-<p>It really is <strong>very</strong> quick.</p>
+It really is **very** quick.
 
 {{% /card %}}
-{{% card title="Vision" href="about/vision"%}}
+{{% card title="Vision" %}}
 Why are we doing this?
 
 Domum Social is about having the anonymity to say unsafe things safely.
 
 As our social space becomes more polarised and divisive there's an understandable tendency to retreat to comfortable spaces or worse to stop talking at all for fear of reprisal.
 
-*click to read more*
+*[read more…](about/vision)*
 {{% /card %}}
 
 {{% card title="Mastodon" %}}**{{< domainroot text="Return to the social site" >}}**{{% /card %}}
