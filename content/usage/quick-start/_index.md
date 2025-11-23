@@ -32,8 +32,23 @@ library grows we will expand our recommended use. Learn more about [our vision](
 Download and install the [Tor Browser](https://www.torproject.org/download/?target=_blank).
 Versions are available for Windows, MacOS, Linux, and Android. 
 
-For iOS, get the [Onion Browser](https://apps.apple.com/us/app/onion-browser/id519296448) app from the Apple App Store. 
+For iOS, get the [Onion
+Browser](https://apps.apple.com/us/app/onion-browser/id519296448?target=_blank)
+app from the Apple App Store. This is the [Tor Project
+recomended](https://support.torproject.org/tor-browser/getting-started/installing/#ios?target=_blank)
+browser for iOS, though it is made by an independent developer.
 
+{{% notice style="transparent" title="A note on Orbot" expanded=false
+%}} [Orbot](https://en.wikipedia.org/wiki/Orbot?target=_blank),
+published by the Tor Project,
+provides a gateway to the Tor network for [iOS](https://apps.apple.com/us/app/orbot/id1609461599?target=_blank) and [Android](https://play.google.com/store/apps/details?id=org.torproject.android&target=_blank).
+
+It is required by  the [Onion
+Browser](https://apps.apple.com/us/app/onion-browser/id519296448?target=_blank)
+on iOS but
+the [Tor Browser](https://www.torproject.org/download/?target=_blank)
+on other platforms makes it's own direct connection without  [Orbot](https://en.wikipedia.org/wiki/Orbot?target=_blank).
+{{% /notice %}}
 
 Yup, it's that simple: click to install, no fancy setup required.
 
