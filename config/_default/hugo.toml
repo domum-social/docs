@@ -2,6 +2,9 @@ baseURL = "http://localhost:1313/"
 languageCode = 'en-us'
 title = 'Domum Social'
 
+# Include drafts in development builds
+buildDrafts = true
+
 [module]
   [[module.imports]]
     path = 'github.com/McShelby/hugo-theme-relearn'

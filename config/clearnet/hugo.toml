@@ -2,3 +2,6 @@
 # This file only contains the differences from the default configuration
 
 baseURL = "https://domum.social/learn"
+
+# Exclude drafts in production builds
+buildDrafts = false
