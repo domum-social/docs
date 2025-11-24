@@ -29,6 +29,18 @@ As our social space becomes more polarised and divisive there's an understandabl
 *[read more…](about/vision)*
 {{% /card %}}
 
-{{% card title="Mastodon" %}}**{{< domainroot text="Return to the social site" >}}**{{% /card %}}
+{{% card title="Funding" %}}
+
+We are 100% crowd funded through:
+* [Patreon](https://www.patreon.com/cw/DomumSocial)
+* [Buy me a coffee](https://buymeacoffee.com/domumsocial)
+* Monero
+* Bitcoin
+
+see our [Funding Page](/about/funding) for more detail including our crypto addresses.
+
+{{% /card %}}
+
+{{% card title="Mastodon" icon="fa-brands fa-mastodon" %}}**{{< domainroot text="Return to the social site" >}}**{{% /card %}}
 
 {{< /cards >}}

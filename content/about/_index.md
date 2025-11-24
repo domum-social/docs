@@ -9,22 +9,26 @@ author = 'Domum Social'
 
 
 {{< cards >}}
-{{% card title="Vision" href="about/vision"%}}
+{{% card title="Vision" %}}
 Why are we doing this?
 
 Domum Social is about having the anonymity to say unsafe things safely.
 
 As our social space becomes more polarised and divisive there's an understandable tendency to retreat to comfortable spaces or worse to stop talking at all for fear of reprisal.
 
-*click to read more.*
-{{% /card %}}
-{{% card title="People"  %}}
-Who is behind this?
-
+[*read more.*](about/vision)
 {{% /card %}}
 
 {{% card title="Funding" %}}
-Help us fund the future of anonymous social media
+
+We are 100% crowd funded through:
+* [Patreon](https://www.patreon.com/cw/DomumSocial)
+* [Buy me a coffee](https://buymeacoffee.com/domumsocial)
+* Monero
+* Bitcoin
+
+see our [Funding Page](/about/funding) for more detail including our crypto addresses.
+
 {{% /card %}}
 
 {{< /cards >}}
