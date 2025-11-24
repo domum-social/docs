@@ -7,16 +7,16 @@ keywords = ['domum social', 'about', 'funding', 'anonymous social media']
 author = 'Domum Social'
 +++
 
-We are 100% crowd funded.
+**We are 100% crowd funded.**
 
 {{< tabs  >}}
 {{% tab title="Patreon"  icon="fa-brands fa-patreon" %}}
-Join our [ Patreon](https://www.patreon.com/cw/DomumSocial) to
-provide monthly continuing support.
+**Join our [ Patreon](https://www.patreon.com/cw/DomumSocial) to
+provide monthly continuing support.**
 {{% /tab %}}
 {{% tab title="Buy me a coffee"  icon="coffee" %}}
-[Buy me a coffee](https://buymeacoffee.com/domumsocial) provides
-one time and monthly support in many currencies
+**[Buy me a coffee](https://buymeacoffee.com/domumsocial) provides
+one time and monthly support in many currencies**
 {{% /tab %}}
 {{% tab title="Monero (crypto)"  icon="fa-brands fa-monero" %}} 
 {{% notice style="green" icon="thumbs-up" title="Privacy Plus"  %}}
