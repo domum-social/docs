@@ -7,11 +7,12 @@ keywords = ['domum social', 'quick start', 'tor browser', 'onion address', 'anon
 author = 'Domum Social'
 +++
 
-{{% notice style="secondary" title="Opening soon" icon="comment" %}}
-Account creation isn't available yet as we work on filling out the
-documentation, but you can still walk through these steps to start
-browsing anonymously so you can be ready when it begins.  {{%
-/notice %}}
+{{% notice style="secondary" title="Public BETA" icon="fa-fw fab fa-mastodon" %}}
+Our security is strong, but our guidance is weak.
+
+While we work on our practical guides we invite experienced internet
+privacy advocates and individuals with low risk to join and provide feedback. 
+{{%/notice %}}
 
 ## Is this site for you?
 
