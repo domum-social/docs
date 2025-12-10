@@ -11,7 +11,7 @@ author = 'Domum Social'
 Our security is strong, but our guidance is weak.
 
 While we work on our practical guides we invite experienced internet
-privacy advocates and individuals with low risk to join and provide feedback. 
+privacy advocates and individuals with low risk to join and provide feedback.
 {{%/notice %}}
 
 ## Is this site for you?
@@ -36,7 +36,7 @@ Versions are available for Windows, MacOS, Linux, and Android.
 For iOS, get the [Onion
 Browser](https://apps.apple.com/us/app/onion-browser/id519296448?target=_blank)
 app from the Apple App Store. This is the [Tor Project
-recomended](https://support.torproject.org/tor-browser/getting-started/installing/#ios?target=_blank)
+recommended](https://support.torproject.org/tor-browser/getting-started/installing/#ios?target=_blank)
 browser for iOS, though it is made by an independent developer.
 
 {{% notice style="transparent" title="A note on Orbot" expanded=false
