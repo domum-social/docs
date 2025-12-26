@@ -7,7 +7,9 @@ keywords = ['domum social', 'about', 'funding', 'anonymous social media']
 author = 'Domum Social'
 +++
 
-**We are 100% crowd funded.**
+{{% notice style="secondary" title="Funding Status" icon="dollar-sign" %}}
+We are self funded through the begining of *Arpil 2026* and are seeking crowd funding for continued operations beyond that.
+{{% /notice %}}
 
 {{< tabs  >}}
 {{% tab title="Patreon"  icon="fa-brands fa-patreon" %}}
