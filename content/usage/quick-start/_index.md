@@ -30,6 +30,10 @@ library grows we will expand our recommended use. Learn more about [our vision](
 
 ## Get a Tor Browser
 
+To login in you will need to us a special anonymizing browser.  This
+hides your IP address from us an and ensures we can't see your real IP
+address (and neither can anyone who takes control of our servers).
+
 Download and install the [Tor Browser](https://www.torproject.org/download/?target=_blank).
 Versions are available for Windows, MacOS, Linux, and Android. 
 
