@@ -1,5 +1,5 @@
 +++
-date = '2025-11-08T07:37:52-05:00'
+date = '2026-01-01T20:24:03-05:00'
 draft = false
 title = 'Quick Start'
 description = 'Get started with Domum Social in minutes. Learn how to download Tor Browser and access our anonymous Mastodon instance via the .onion address.'
@@ -57,7 +57,7 @@ Yup, it's that simple: click to install, no fancy setup required.
 
 Launch the browser you just installed.
 
-Go to https://domum.social and click on the [![Tor Browser button icon - Click to access Domum Social via anonymous Tor network](join_login_tor.png?height=2em&classes=inline&border=false "Requires Tor Browser")](http://f3rz5puehnq7dfqqwajxu3izuovb6wqepof3prqesle76qyfivlfxgyd.onion)
+Go to https://domum.social and click on the [![Tor Browser button icon - Click to access Domum Social via anonymous Tor network](login_tor.png?height=2em&classes=inline&border=false "Requires Tor Browser")](http://f3rz5puehnq7dfqqwajxu3izuovb6wqepof3prqesle76qyfivlfxgyd.onion)
 button. This is at the bottom of the mobile site and in the right column on the desktop site.
 
 ## That's it

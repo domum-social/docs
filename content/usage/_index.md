@@ -6,11 +6,11 @@ keywords = ['domum social', 'usage', 'how to', 'quick start', 'tor browser', 'an
 author = 'Domum Social'
 +++
 
-{{% notice style="secondary" title="Opening soon" icon="comment" %}}
-Signup isn't open yet as we work on filling out the documentation, but
-you can still walk through the [Quick Start](quick-start) to start
-browsing anonymously and be ready for signups when they open.  {{%
-/notice %}}
+{{% notice style="secondary" title="Public Beta" icon="comment" %}}
+Signups are now open see  [Quick Start](quick-start) for information
+on what you need to do to get started. And our
+[beta](beta) documentation to see where we're at with our roll out and
+what level of stability (or not) you can expect{{%/notice %}}
 
 {{< cards >}}
 {{% card title="Quick Start" href="quick-start" %}}
